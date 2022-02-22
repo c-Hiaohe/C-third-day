@@ -1,2 +1,4 @@
 ﻿  test-2.22.c
+D:\Git-Word\C-third-day\test-2.22\test-2.22\test-2.22.c(17,8): warning C4013: “Sleep”未定义；假设外部返回 int
+D:\Git-Word\C-third-day\test-2.22\test-2.22\test-2.22.c(9,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   test-2.22.vcxproj -> D:\Git-Word\C-third-day\test-2.22\x64\Debug\test-2.22.exe
